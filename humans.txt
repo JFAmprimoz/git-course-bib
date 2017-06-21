@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 
+    JF  -- Learner -- Small Web Strat
+
 # THANKS
 
     <name>
