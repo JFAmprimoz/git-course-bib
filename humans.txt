@@ -33,5 +33,5 @@ git diff --staged Head stage vs commit
 
 git diff <commit id> compares head to an earlier commit by id
 
-files go one after the other
+files go one after the other if there are chages in more than one
 
