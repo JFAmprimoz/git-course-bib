@@ -9,11 +9,24 @@
 
 # THANKS
 
-    <name>
+    Bibrash
+    NicK
+    Parents
+    Darci
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
 
-    In an Ubuntu Virtual Box on a Windows 10 PC 
+    In an Ubuntu Virtual Box on a Windows 10 PC for a course about git.
+    
+    We also installed p4merge
+
+#Notes
+
+git diff: working vs staged
+
+git diff HEAD working vs commit
+
+git diff --staged Head stage vs commit
