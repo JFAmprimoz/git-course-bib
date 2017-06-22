@@ -30,3 +30,6 @@ git diff: working vs staged
 git diff HEAD working vs commit
 
 git diff --staged Head stage vs commit
+
+git diff <commit id> compares head to an earlier commit by id
+
